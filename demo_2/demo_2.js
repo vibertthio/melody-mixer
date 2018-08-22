@@ -105,9 +105,9 @@ var stepIndex = -1;
 
 ///////////////////////////////
 //p5.js setup
-var TILE_SIZE = 150;
+var TILE_SIZE = 200;
 var WIDTH = TILE_SIZE * numInterpolations;
-var HEIGHT = 170;
+var HEIGHT = 230;
 var START_COLOR;
 var END_COLOR;
 
